@@ -1,6 +1,6 @@
 ## LiveCode Batch `#738`
 
-How to Use: (You must have Node and [yarn] installed)
+How to Use: (You must have Node and yarn installed)
 
 ```bash
 cd ~/code/$USER
